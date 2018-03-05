@@ -1,8 +1,8 @@
 Module.register("timetable",{
 	// Default module config.
 	defaults: {
-		text: "Your Timetable for today:"
-    text: "
+		text: "Your Timetable for today:";
+       		text: "";
 	},
 
 	// Override dom generator.

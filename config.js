@@ -1,7 +1,7 @@
 modules: [
 	{
 		module: "timetable",
-		position: "center,	// This can be any of the regions. Best results in center regions.
+		position: "center",	// This can be any of the regions. Best results in center regions.
 		config: {
 
 			days: [

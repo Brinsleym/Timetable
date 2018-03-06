@@ -4,15 +4,15 @@ modules: [
 		position: "center,	// This can be any of the regions. Best results in center regions.
 		config: {
 
-			feeds: [
+			days: [
 				{
 					title: "Monday",
-					url: "http://google.com/page.xml",
+					image: "http://google.com/page.xml",
 				},
 				{
 					title: "Tuesday",
-					url: "http://google.com/page.xml",
-        },
+					image: "http://google.com/page.xml",
+     			        },
         {
           title: "Wednesday",
           url: "http://google.com/page.xml"

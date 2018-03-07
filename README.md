@@ -10,10 +10,10 @@ Feel free to use and share this responsitory,
 
 clone the responsitory, or use:
 
-git install brinsleym-timetable
+git install bm-magicmirror-timetable
 
 ^^ this will work shortly.
 
 ***********************************************************
-I am a new software developer and this is my first project!
+===========================================================
 ***********************************************************

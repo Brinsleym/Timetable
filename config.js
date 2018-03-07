@@ -7,24 +7,24 @@ modules: [
 			days: [
 				{
 					title: "Monday",
-					image: "http://google.com/page.xml",
+					image: "http://google.com/page.png",
 				},
 				{
 					title: "Tuesday",
-					image: "http://google.com/page.xml",
+					image: "http://google.com/page.png",
      			        },
-        {
-          title: "Wednesday",
-          url: "http://google.com/page.xml"
-        },
-        {
-          title: "Thursday",
-          url: "http://google.com/page.xml"
-        },
-        {
-          title: "Friday",
-          url: "http://google.com/page.xml"
-        },  
+       	 			{
+          				title: "Wednesday",
+          				url: "http://google.com/page.png"
+        			},
+        			{
+          				title: "Thursday",
+          				url: "http://google.com/page.png"
+       				},
+        			{
+          				title: "Friday",
+          				url: "http://google.com/page.png"
+       				},  
 			]
 		}
 	}
